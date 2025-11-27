@@ -1,0 +1,11 @@
+{
+  "rfc": {
+    "host": "your-sap-host.example.com",
+    "sysnr": "00",
+    "client": "100",
+    "user": "your-username",
+    "password": "your-password",
+    "saprouter": "/H/saprouter.example.com/S/3299/H/"
+  },
+  "log_level": "INFO"
+}
